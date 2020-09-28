@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php echo "<h1> Hello Interal </h1>"; ?>
 </body>
+<script>
+</script>
 </html>
