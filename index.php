@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "<h1> Hello Interal </h1>"; ?>
+    <?php echo "<h1> Hello Interal I AM WORTA IN INTERAL</h1>"; ?>
 </body>
-<script>
+<script src="js/script.js">
 </script>
 </html>
